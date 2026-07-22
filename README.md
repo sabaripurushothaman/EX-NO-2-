@@ -151,5 +151,6 @@ int main() {
 ```
 ## Output:
 <img width="1918" height="820" alt="Screenshot 2026-07-22 111531" src="https://github.com/user-attachments/assets/66ce0af3-6a21-4028-b8e2-f763f057162d" />
-## Result
+
+## Result :
 Thus the program is executed successfully..
